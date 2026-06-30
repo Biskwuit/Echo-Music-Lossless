@@ -11,6 +11,7 @@
 
 **Playback Engine**
 - Added a self-healing remote configuration system synced with zemer-cipher for seamless YouTube player signature updates without needing a new APK version.
+- Disabled "320 kbps" (Saavn) and "Lossless" (Qobuz) audio and download quality options due to server maintenance; existing users will be automatically migrated to "Opus" or "YouTube Music".
 
 **ListenBrainz**
 - Moved ListenBrainz settings to the Account page, making the integration fully accessible and functional.
