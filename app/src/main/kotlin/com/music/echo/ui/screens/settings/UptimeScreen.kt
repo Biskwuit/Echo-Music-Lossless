@@ -61,7 +61,7 @@ highlightKey: String? = null) {
             ),
             ServiceStatus(
                 "Qobuz",
-                { "https://qobuz.kennyy.com.br" }
+                { "https://qobuz2.kennyy.com.br" }
             )
         )
     }

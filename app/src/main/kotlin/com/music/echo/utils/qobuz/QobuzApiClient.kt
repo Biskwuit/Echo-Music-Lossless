@@ -110,7 +110,7 @@ class QobuzApiClient {
             chain.proceed(request)
         }
         .build()
-    private val baseUrl: String = "https://qobuz.kennyy.com.br/api"
+    private val baseUrl: String = "https://qobuz2.kennyy.com.br/api"
     private val json: Json = Json {
         ignoreUnknownKeys = true
         isLenient = true
